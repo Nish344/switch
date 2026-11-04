@@ -303,4 +303,5 @@ def test_switch_buddy_offers_choices_in_its_question_form():
     assert "one single-choice question per form" in text
     assert "With no question form, list numbered options" in text
     # Form answers are not consent to create: the proposal is its own form.
-    assert "create only after Create" in text
+    assert "end with a separate proposal" in text
+    assert "create only after explicit confirmation" in text
