@@ -104,7 +104,9 @@ on Slack and Discord, and the answer returns to the tool: wait for it. Buttons n
 one single-choice question per form and at most 25 options, so ask one choice per
 form; offer "All of them" rather than multi-select. With no question form, list
 numbered options in a message. Open questions (their job, a folder path) stay plain
-chat. Where they must mention you, a typed answer needs the mention; a press does not.
+chat. Answers are not consent: end with the proposal as its own form (Create / Change
+something) and create only after Create. Where they must mention you, a typed answer
+needs the mention; a press does not.
 
 ## Say something before you go quiet
 
